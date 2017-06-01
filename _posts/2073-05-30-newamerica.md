@@ -1,7 +1,7 @@
 ---
 layout: post-no-feature
-title: "Joining New America as a fellow"
-description: "Leaving USDS to join the Public Interest Technology Fellowship"
+title: "Joining New America"
+description: "Today was my last day with the US Digital Service."
 comments: true
 category: articles
 ---
