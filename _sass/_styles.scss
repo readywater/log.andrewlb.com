@@ -103,9 +103,14 @@ code {
 }
 
 .thumb {
-    height: auto; width: auto;
-    max-width: 100px;
-    max-height: 100px;
+    float: left;
+    clear: left;
+
+    image {
+        height: auto; width: auto;
+        max-width: 150px;
+        max-height: 150px;
+    }
 }
 
 hr {
