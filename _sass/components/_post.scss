@@ -28,4 +28,10 @@
   &__image {
     margin: 0 auto $base-spacing-unit;
   }
+
+  a[title] {
+    padding: 4px;
+    background: #eee;
+    font-size: 12px;
+  }
 }

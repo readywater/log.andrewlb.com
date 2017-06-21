@@ -36,6 +36,6 @@ I would love to learn more about your businesses and ideas, how you’ve develop
 Thanks, and keep an eye on this space for more.
 
 [1]:	https://en.wikipedia.org/wiki/Social_purpose_corporation "Social Purpose Corporation (Wikipedia)"
-[2]:	%20https://ssir.org/articles/entry/social_entrepreneurship_the_case_for_definition "Roger L. Martin & Sally Osberg, Social Entrepreneurship: The Case For Definition, SSIR, Spring 2007"
+[2]:	https://ssir.org/articles/entry/social_entrepreneurship_the_case_for_definition "Roger L. Martin & Sally Osberg, Social Entrepreneurship: The Case For Definition, SSIR, Spring 2007"
 [3]:	https://www.edsurge.com/news/2014-08-13-what-a-peruvian-school-designed-by-ideo-looks-like "What a Peruvian School Designed by IDEO looks like"
 [4]:	http://www.womenonwaves.org/ "Women on Waves"
