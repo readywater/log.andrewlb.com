@@ -1,60 +1,58 @@
-title:            log.andrewlb.com
-description:      log
-canonical:        https://log.andrewlb.com
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Owner/author information
-owner:
-  name:           Andrew Lovett-Barron
-  email:          alb@andrewlb.com
-  twitter:        readywater
-  github:         readywater
-  instagram:      readywater
-  location:       "Washington, DC"
-  # Plug in your disqus shortname!
+# Site settings
+title:              log.andrewlb.com
+logo:               # Logo image URL
+email:              alb@andrewlb.com
+description:        Writings by Andrew Lovett-Barron
+baseurl:            '' # The subpath of your site, e.g. /blog
+url:                'http://log.andrewlb.com' # The base hostname & protocol for your site
+github_username:    readywater
+twitter_username:   readywater
+instagram_username: readywater
 
-tools:
-  standards:      "HTML, SCSS, Jekyll"
-  software:       "git"
-
-# Open Graph customization
-opengraph:
-  locale:           en_US
-
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: Portfolio
-    url: http://andrewlb.com
-    external: true
-  - title: Github
-    url: https://github.com/readywater
-    external: true
-  
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
-future:      true
-highlighter: pygments
-markdown:    kramdown
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
+markdown:  kramdown
+permalink: pretty
+paginate:  13
 sass:
-    style: :compressed
+  style: compressed
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+gems:
+  - jekyll-paginate
+  - jekyll/tagging
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+# Authors
+authors:
+  Andrew:
+    name:             Andrew Lovett-Barron
+    bio:              Product Designer. New America Fellow; previously USDS and IDEO
+    gravatar:         
+    email:            alb@andrewlb.com
+    website:          http://andrewlb.com
+    github_username:  readywater
+    twitter_username: readywater
