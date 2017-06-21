@@ -5,11 +5,8 @@ author: andrew
 description: "Today was my last day with the US Digital Service."
 comments: true
 tags: [usds, newamerica,work]
-image: '/images/newamerica.jpg'
+image: '/images/posts/newamerica.jpg'
 ---
-
- ![New America Logo]({{ site.url }}/images/newamerica.jpg)
-
  
 Today was my last day with the US Digital Service. On June 1st, I am joining [New America](https://www.newamerica.org) in the first cohort of [Public Interest Technology](https://www.newamerica.org/technology-public-interest/public-interest-technology-fellowship/) fellows.
 

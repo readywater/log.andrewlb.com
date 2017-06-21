@@ -5,10 +5,8 @@ author: andrew
 description: "How do you build sustainable software in the public interest?"
 comments: true
 tags: [social venture design, newamerica, research]
-image: '/images/20170620-image1.jpg'
+image: '/images/posts/20170620-image1.jpg'
 ---
-
- ![New America Logo]({{ site.url }}/images/20170620-image1.jpg)
 
 A **Social Product Venture** is a business created around a product or service that measurably supports positive social outcomes. Examples of these outcomes might be a net increase in the number of at-risk students successfully graduating, or quarterly reductions in recidivism for those exiting the criminal justice system. These outcomes/bottom lines are declared somewhere in the business structure, such as a B Corp's certification or a Washington State Social Purpose Corporation[1]. Additionally, the organizational structure of the venture reflects and incentivizes the mission towards these outcomes: it might be reflected in the design of its board, or in financial incentives for team members around bonuses, or in the way the team hires and trains its product teams.
  
