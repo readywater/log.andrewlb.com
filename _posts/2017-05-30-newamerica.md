@@ -1,9 +1,11 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Joining New America"
+author: andrew
 description: "Today was my last day with the US Digital Service."
 comments: true
-category: articles
+tags: [usds, newamerica,work]
+image: '/images/newamerica.jpg'
 ---
 
  ![New America Logo]({{ site.url }}/images/newamerica.jpg)

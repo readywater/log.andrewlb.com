@@ -1,9 +1,11 @@
 ---
-layout: post-no-feature
+layout: post
 title: "Social Product Ventures"
-description: "Questions for sustainable social ventures"
+author: andrew
+description: "How do you build sustainable software in the public interest?"
 comments: true
-category: articles
+tags: [social venture design, newamerica, research]
+image: '/images/20170620-image1.jpg'
 ---
 
  ![New America Logo]({{ site.url }}/images/20170620-image1.jpg)
