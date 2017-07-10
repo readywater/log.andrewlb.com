@@ -5,12 +5,12 @@ author: andrew
 description: "When 'I know it when I see it' isn't good enough for building software in the public interest"
 comments: true
 tags: [social venture design, newamerica, research]
-image: '/images/posts/20170610-spotter.jpg'
+image: '/images/posts/20170710-spotter.jpg'
 ---
 
 How do you know that a software business with a social mission is actually a Social Product Venture? Some might be able to glance at a business and declare “I know it when I see it”, but when dealing with the capital required to hire the best talent to make and maintain great social good products, perhaps we need a more effective and less inscrutable spotter’s guide.
 My hypothesis is that Social Product Ventures exist across a continuum of potential organizational structures: from for-profit businesses with social missions baked-in, to not-for-profits with unique granting structures and partnerships, and everything in-between. Diversity in this way is helpful and good: it creates options and resilience within the social product marketplace. But it creates challenges when it comes to saying concretely “This is a Social Product Venture”, vs. the alternative. If we can’t have a concrete classification like “For Profit Delaware C Corp”,“501(c)3 Not for Profit”, “Washington Benefit Corp”, perhaps we can at least have a guide for Thoughtful Spotters navigating the world of social good software businesses.
-![SPV Spotter Guide]({{ site.url }}/images/posts/20170610-spotter.jpg)
+![SPV Spotter Guide]({{ site.url }}/images/posts/20170710-spotter.jpg)
 ([Download the PDF version]({{ site.url }}/assets/v011spotter.pdf))
 My idea for this came from my experience using the [Business Model Canvas]. The canvas is a tool created by Alex Osterwalder et al. to prototype and explore business models in a rapid fire and concise way. It’s a brilliant tool and one I’ve benefit from throughout my career. But the idea for the spotter’s guide wasn’t as a prototyping tool, but as a tool for classification and understanding. At IDEO, we engaged with so many different kinds of businesses and business models, that our head would spin. The canvas became an excellent “Sanity Check” tool, especially when something sounded too unfamiliar or too good to be true. The business model canvas helped me break down what I was seeing, and reveal the familiar and unfamiliar for what it was.
 In looking at Social Product Ventures, this Sanity Check has become incredibly important. Many for-profit businesses espouse a social mission or vision for changing the world, but ultimately have nothing organizationally in place to support that mission. Likewise, many not-for-profits talk about technology and product innovation, but have no mechanisms in place to support actual product development and infrastructure. To start making sense of these, I borrowed from the business model canvas and broke down the three verticals that I think are most important:
