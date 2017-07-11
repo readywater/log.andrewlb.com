@@ -19,9 +19,9 @@ This guide came from my experience using the [Business Model Canvas](https://str
 
 In looking at Social Product Ventures, this Sanity Check has become incredibly important. Many for-profit businesses espouse a social mission or vision for changing the world, but ultimately have nothing organizationally in place to support that mission. Likewise, many not-for-profits talk about technology and product innovation, but have no mechanisms in place to support actual product development and infrastructure. To start making sense of these, I borrowed from the business model canvas and broke down the four verticals that I think are most important:
 
-- *Organization* (Creators, experience, business type, and support), 
-- *Thesis* (Value proposition, metrics, and social contract), 
-- *Customers* (Customers who pay, and Beneficiaries who benefit). 
+- *Organization* (Creators, experience, business type, and support)
+- *Thesis* (Value proposition, metrics, and mission contract)
+- *Customers* (Customers who pay, and Beneficiaries who benefit)
 - And *Financials* in summary (revenue streams, pricing model, expenditures, and key risks)
 
 Each section has a series of checklists with points I keep encountering in my interviews with social product founders. For example, a product team almost always has a Technical person, a Designer, and Product person. In the social venture space, a legal/policy person might also be a subject matter expert, and the Product person is often tied to sales.
@@ -35,7 +35,7 @@ Some sections don’t have checklists because they are too diverse, or unique to
 
 **Thesis** relates to the core principal and world view of the business, broken down into the Value Proposition, how that value is measured, and what I’ve called the Mission Contract.
 - Value Propositions can be defined in many ways. I’ve laid out a few examples that are common in the social good space, which are often simply improving on existing processes. A “Systemic Change” value proposition might be a [Grameen Bank](https://en.wikipedia.org/wiki/Grameen_Bank), an “Improved Efficiency” might by a [Turbotax-like tool for a terrible bureaucratic system](https://upsolve.org/),  and a “New Capability” might be [Food Stamp balances over text message](http://splash.codeforamerica.org/balance/english/ak/).
-- Metrics are split into Social measures and Business measures. Traditional business measures like Customer Acquisitions and Conversions, various measures of Recurring Revenue, and similar are vital for social good businesses to track. It becomes more challenging with Social Impact measures, such as Social ROI. There are great tools like [Sinzer.org] that have frameworks for tracking and development these metrics, and I will be developing a tool to help Social Product Ventures explore and define their own success metrics
+- Metrics are split into Social measures and Business measures. Traditional business measures like Customer Acquisitions and Conversions, various measures of Recurring Revenue, and similar are vital for social good businesses to track. It becomes more challenging with Social Impact measures, such as [Social ROI](https://en.wikipedia.org/wiki/Social_return_on_investment). There are great tools like [Sinzer.org](http://www.sinzer.org/) that have frameworks for tracking and development these metrics, and I will be developing a tool to help Social Product Ventures explore and define their own success metrics
 - The Mission Contract is a key section with a concrete list of things that enshrines and protects the social mission of the business. The might be on the far end of incorporating as a Not-For-Profit or B. Corp, or seeking mission-oriented Venture funding, or establishing an advisory board for community representatives. If this comes up short, you may not be looking at a Social Product Venture.
 
 **Customers** are the general mix of customers, users, and beneficiaries. I’ve specifically not put User in this category, as that categorization is often more nuanced that checkmarks can fill.
